@@ -1,8 +1,5 @@
-namespace Qrng {
-    open Microsoft.Quantum.Convert;
-    open Microsoft.Quantum.Math;
+namespace Example {
     open Microsoft.Quantum.Measurement;
-    open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
     
     operation random() : Result {
