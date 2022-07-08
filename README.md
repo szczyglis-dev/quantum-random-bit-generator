@@ -8,7 +8,7 @@ Everyone who has an account in the Azure cloud gets the opportunity to run the c
 
 https://docs.microsoft.com/en-us/azure/quantum/overview-azure-quantum
 
-> Azure Quantum is the cloud quantum computing service of Azure, with a diverse set of quantum solutions and technologies. Azure Quantum ensures an open, flexible, and future-proofed path to quantum computing that adapts to your way of working, accelerates your progress, and protects your technology investments. Azure Quantum provides the best development environment to create quantum algorithms for multiple platforms at once while preserving flexibility to tune the same algorithms for specific systems. You can write your code once and run it with little to no change against mult
+> Azure Quantum is the cloud quantum computing service of Azure, with a diverse set of quantum solutions and technologies. Azure Quantum ensures an open, flexible, and future-proofed path to quantum computing that adapts to your way of working, accelerates your progress, and protects your technology investments. Azure Quantum provides the best development environment to create quantum algorithms for multiple platforms at once while preserving flexibility to tune the same algorithms for specific systems.
 
 Quantum computing requires knowledge of at least theoretical foundations of quantum mechanics and phenomena such as superposition, reading problems and quantum entanglement. However, you don't have to be a quantum physicist to start playing with quantum algorithms yourself. There is sample code in Azure that you can use as a good starting point for quantum computing. Below is an explanation of how the quantum "hello world" works in Microsoft Azure.
 
