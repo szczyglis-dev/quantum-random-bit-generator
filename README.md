@@ -17,11 +17,8 @@ The sample code provided in Azure Quantum might look like this:
 ```qs
 // random.qs
 
-namespace Qrng {
-    open Microsoft.Quantum.Convert;
-    open Microsoft.Quantum.Math;
+namespace Example {
     open Microsoft.Quantum.Measurement;
-    open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
     
     operation random() : Result {
